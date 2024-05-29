@@ -4,8 +4,9 @@ This repository contains the template files used for the [Token Import](https://
 
 ## Files
 
-There are two available template files, namely the:
+There are three available template files, namely the:
 * `Card template` used for importing buyers and their cards into the database.
 * `Non-card template` used for importing buyers and their non-card payment methods and tokens into the database.
+* `Gift Card template` used for importing buyers and their gift cards into the database.
 
 The sample file additionally provided in this repository is an example of a filled out `card template`.
