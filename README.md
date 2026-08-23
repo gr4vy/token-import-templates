@@ -4,10 +4,11 @@ This repository contains the template files used for the [Token Import](https://
 
 ## Files
 
-There are four available template files, namely the:
+There are five available template files, namely the:
 * `Card template` used for importing buyers and their cards into the database.
 * `Digital wallet template` used for importing buyers and their Apple Pay and Google Pay wallets into the database.
 * `Non-card template` used for importing buyers and their non-card payment methods and tokens into the database.
+* `ACH bank template` used for importing buyers and their ACH bank accounts into the database.
 * `Gift Card template` used for importing buyers and their gift cards into the database.
 
-The sample file additionally provided in this repository is an example of a filled out `card template`.
+The sample files additionally provided in this repository are examples of a filled out `card template` and a filled out `ACH bank template`.
